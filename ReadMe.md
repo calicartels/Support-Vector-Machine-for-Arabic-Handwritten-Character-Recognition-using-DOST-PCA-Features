@@ -50,3 +50,33 @@ High-level overview of the process: <br>
 
 Visualization of the DOST points plotted on the image: <br>
 ![Feature extraction in Live time](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/DOST%20feature%20point.png) <br>
+
+Sample Visualization of the images after going through dimensionality reduction: <br>
+
+![First 3 dimensions being represented](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/Sample%203d%20viz%20for%20the%20first%203%20dimensions%20.png)
+
+
+
+
+
+## Results
+
+- The proposed DOST feature extraction coupled with the SVM model shows improved performance with respect to the other models by achieving an accuracy of 87.44%.
+- The possible reasons attributed to the reduction in accuracy are postulated through a variety of factors.
+- The analysis reveals that there are certain challenges in accurately recognizing pairs of classes, which include, but are not limited to classes 10 and 9, as well as classes 5 and 11.
+- This difficulty arises due to the similarity in shape between these pairs.
+![Similarity in pair 1](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/Example%20Similarity%20in%20shape.png)
+
+![Similarity in pair 2](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/Example%20Similarity%20in%20shape%202.png)
+
+![Confusion Matrix](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/Confusion%20Matrix.png)
+
+![ROC curve for all the classes](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/ROC%20curve.png)
+
+
+
+## Credits 
+
+- TM Vishnu Mukundan 
+- Isha Nevatia
+
