@@ -65,18 +65,20 @@ Sample Visualization of the images after going through dimensionality reduction:
 - The possible reasons attributed to the reduction in accuracy are postulated through a variety of factors.
 - The analysis reveals that there are certain challenges in accurately recognizing pairs of classes, which include, but are not limited to classes 10 and 9, as well as classes 5 and 11.
 - This difficulty arises due to the similarity in shape between these pairs.
-![Similarity in pair 1](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/Example%20Similarity%20in%20shape.png)
-
-![Similarity in pair 2](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/Example%20Similarity%20in%20shape%202.png)
-
-![Confusion Matrix](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/Confusion%20Matrix.png)
-
-![ROC curve for all the classes](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/ROC%20curve.png)
 
 
+![Similarity in pair 1](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/Example%20Similarity%20in%20shape.png) <br>
+
+![Similarity in pair 2](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/Example%20Similarity%20in%20shape%202.png) <br>
+
+![Confusion Matrix](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/Confusion%20Matrix.png) <br>
+
+![ROC curve for all the classes](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/ROC%20curve.png) <br>
+
+NOTE: THIS CODE DOES NOT CONTAIN THE HYPERPARAMETER-OPTIMIZED RESULT SINCE THE TUNING REQUIRED WAS COMPUTATIONALLY INTENSIVE, IT HAD TO BE DONE THROUGH A CLOUD-BASED SYSTEM.
 
 ## Credits 
 
 - TM Vishnu Mukundan 
-- Isha Nevatia
+- Ghada Eladeb
 
