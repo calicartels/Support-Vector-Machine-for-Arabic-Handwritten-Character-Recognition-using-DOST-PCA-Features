@@ -43,7 +43,10 @@ texts and enabling efficient text analysis.
 
 
 High-level overview of the process: <br>
-![Proposed Visualization](https://github.com/calicartels/Categorical-Boosting-Machine-for-Tamil-Character-Recognition-using-Shape-based-Features/blob/main/sample%20vis.png) <br>
+![High level overview](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/HIGH%20LEVEL%20OVERVIEW.png) <br>
+
+
 ## Sample Visualization
 
- 
+Visualization of the DOST points plotted on the image: <br>
+![Feature extraction in Live time](https://github.com/calicartels/Support-Vector-Machine-for-Arabic-Handwritten-Character-Recognition-using-DOST-PCA-Features/blob/main/DOST%20feature%20point.png) <br>
